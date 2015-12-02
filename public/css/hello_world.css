@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>Hello World</title>
+		
+		<link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
+		<link rel="stylesheet" href="/css/hello_world.css">
+</head> 
+</body> 
+</head>
+	
+<boby>
+	<span id="CSS_Test">CSS Test</span>
+		<h1 id="page-header">Hello World</h1>  
+		
+		<h3>Info About Me</h3>
+		<blockquote>"With just enough of learning to misquote." </blockquote>
+	
+		<p>
+		<span>My</span> favorite vacation spot is Lisbon Portaguel. It has everything you need from the art to casinos and everytning in between. The temp is relatively warm all year around and has much to offer in the way of culture and history.
+
+		<br>
+		<br>
+		My favorite actor <strong>Sean Cruise</strong>.I am not sure what move he has appeared in but I hear he's great.
+
+		<p><em>Just doing this to see what it does.</em></p>
+	
+		</p>
+	
+		<br>
+		<br>
+
+		<h1>LIST</h1>
+		<br>
+		<ul>
+			<li>first item</li>
+			<li>second item</li>
+			<li>third item</li>
+			<li>fourht item</li>
+		</ul>
+
+		<br>
+		<br>
+
+		<ol>
+			<li>firt item</li>
+			<li>second item</li>
+			<li>third item</li>
+			<li>fourht item</li>
+		</ol>
+
+		<br>
+		<br>
+
+		<dl>
+			<dt>Spammin</dt>
+			<dd>speaking aimlessly on a mishmash of topics, or to stuff someone's brain.</dd>
+			<dt>unplugged</dt>
+			<dd>not connected. The opposite of wired. It also refers to acoustic music.</dd>
+			<dt>DeepDive</dt>
+			<dd>exploring a subject in-depth.</dd>
+
+		<br>
+		<br>
+
+		<h1>LINKS</h1>
+		<br>
+
+			<a href="https://google.com" target="_blanl"> This is a link to google </a>
+
+		<br>
+		<br>
+
+		<p>
+			Next, you probably want to link to the anchored location from other areas of your HTML document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows:
+		<br>
+			Next, you probably want to link to the anchored location from other areas of your HTML document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows:
+		<br>
+			Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em>document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your HTML document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em>document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your HTML document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows: Next, you probably want to link to the anchored location from other areas of your  <em>HTML</em> document. To link back to the anchored location, create another anchor with an href that points to the id of the anchored location as follows:
+		</P
+		<br>
+			<a href="#top">Go to the top of the page</a>
+
+
+	</div>
+
+	<br>
+	<br>
+	<h1>IMAGES</h1>
+		<img src="img/virtual-rac.jpg" alt="Oracle RAC" height="400" width="400">
+	<br>
+	<br>	
+
+	<br>
+	<h1>TABLES</h1>
+	<br>
+	<br>
+	<br>
+
+	<table style="width:10%">
+		<tr>
+			<th>Level1 </th> 
+			<th>Level2</th> 
+			<th>Level3</th>
+		</tr>
+		<tr>
+			<td>Joel</td>
+			<td>Dallas</td>
+			<td>Trevor</td>
+		</tr>
+		<tr>
+			<td>Steve</td>
+			<td>Daniel</td>
+			<td>John</td>
+		</tr>
+		<tr>
+			<td>Marc</td>
+			<td>Lisa</td>
+			<td>Susie</td>
+	</table>	
+
+
+
+</body>
+
+</html>

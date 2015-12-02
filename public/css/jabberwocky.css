@@ -1,0 +1,45 @@
+.fancy-header {
+	font-size: 30px;
+	font-weight: bold;
+	font-family: "serif", sans-serif, Impact;
+}	
+
+.george {
+    background-color: red;	
+    
+    font-size: 30px;
+    font-style: sans-serif;
+    text-align: Left;
+    text-decoration: line-through;
+ }
+
+.lewis {
+	font-size: 30px; 
+	font-style: sans-serif;
+}
+
+.par1 {
+	text-align: left;
+	font-style: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+ }
+
+.par2 {
+	text-align: right;
+	font-style: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+}
+
+.par3 {
+	text-align: left;
+	font-style: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+}
+
+a:link {
+    text-decoration: none;
+    color: blue;
+    font-size: 60px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+

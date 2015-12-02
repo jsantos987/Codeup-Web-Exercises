@@ -1,0 +1,83 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+div {
+	font-weight: bold;
+	color:#fff;
+}
+
+
+
+.sectionA {
+	background-color: #FF0000;
+
+	width: 172px;
+	height: 72px;
+	border: 2px solid black;
+	text-align: left;
+	margin: 5px 0px 5px 0px;
+}
+
+
+.sectionB { 
+	background-color: #FFA500;
+
+	width: 172px;
+	height: 72px;
+	border: 2px solid black;
+	text-align: left;
+	margin: 5px 0px 5px 30px;
+		
+}
+
+.sectionC { 
+	background-color: #FFFF00;
+
+	width: 172px;
+	height: 72px;
+	border: 2px solid black;
+	text-align: left;
+	margin: 5px 0px 5px 60px;
+		
+}
+
+
+.sectionD { 
+	background-color: #008000;
+
+	width: 172px;
+	height: 72px;
+	border: 2px solid black;
+	text-align: left;
+	margin: 5px 0px 5px 90px;
+		
+}
+
+
+.sectionE { 
+	background-color: #0000FF;
+
+	width: 172px;
+	height: 72px;
+	border: 2px solid black;
+	text-align: left;
+	margin: 5px 0px 5px 120px;
+		
+}
+
+.sectionF { 
+	background-color: #BA55D3;
+
+	width: 172px;
+	height: 72px;
+	border: 2px solid black;
+	text-align: left;
+	margin: 5px 0px 5px 150px;
+		
+}
+

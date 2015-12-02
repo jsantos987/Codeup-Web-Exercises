@@ -1,0 +1,56 @@
+.top {
+    height: 92px;
+    background-color: black
+}
+.left {
+    width: 178px;
+    height: 410px;
+    float:left;
+    background-color: white
+}
+.main {
+  margin-left:178px;
+ }
+
+
+body {
+	background-color: #e1e1e1;
+}
+
+img {
+	float: left;
+	width: 20%;
+}
+
+.row2 {
+	width: 50%;
+	position: relative;
+}
+
+
+footer {
+	padding: 50px;
+	clear: both;
+	background-color: black;
+}
+
+
+nav {
+	background-color: ;
+}
+
+li {
+	font-size: 15px;
+	display: inline;
+}
+
+.copyright {
+	color:white;
+	font-style: bold;
+}
+
+a {
+	color: red;
+	padding: 25px;
+	text-decoration: underline;
+}

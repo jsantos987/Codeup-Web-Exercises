@@ -1,0 +1,39 @@
+/*REMEMBER TO PUT THIS FILE INSIDE YOUR CSS DIRECTORY*/
+#test{
+	color: red;
+}
+
+/* Color page header yellow/green */
+#page-header {
+	color: #00ff00;
+	font-family:"comic sans ms", "webdings", Serif;
+	font-size: 18px; 
+	font-weight: lighter;   
+			
+			
+}
+
+/* Underline all todo-items */
+.todo-item>h1{
+	text-decoration: underline;
+}
+
+/* color todo-item atributte red */
+.todo-item>a {
+	color: red;
+}
+
+Indent a list item <li>
+li { 
+	text-indent: 150px;
+	text-align: left;
+}
+
+
+
+/* Underline all todo-items */
+
+/* Underline all todo-items */
+
+/* Underline all todo-items */
+

@@ -1,0 +1,10 @@
+
+#wrapper {
+    width:400px;
+    overflow:hidden;
+    padding:10px;
+}
+#sidebar {
+    float:left;
+    width:100px;
+}
