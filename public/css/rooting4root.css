@@ -1,0 +1,66 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1200px;
+}
+
+.row {
+    width:100%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    padding: 20px; 
+    border-radius: 5px;  
+}
+
+
+
+.nav1 {	
+    width: 33.33%;
+    height: 150px;
+    font-size: 12%;
+       
+}
+.nav-list-item {
+	font-size: sans; color: red;
+
+}
+
+
+.form1 {	
+    width: 50%;
+    height: 400px;
+    font-size: 150%;
+    background-image: http://codeup.dev/img/Milton_Beach.jpg;
+      
+}
+
+.main1 {
+	width: 16.7%;
+	height: 100px;
+
+    }
+
+.footer1 {
+    width: 12.5%;
+    height: 100px;
+    font-size: 14%;
+    background-image: http://codeup.dev/img/flag.jpg;
+     
+}
+
+
